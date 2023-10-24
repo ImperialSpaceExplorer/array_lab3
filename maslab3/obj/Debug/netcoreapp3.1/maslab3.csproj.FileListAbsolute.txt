@@ -1,0 +1,11 @@
+C:\Users\Человек\Desktop\project\maslab3\maslab3\bin\Debug\netcoreapp3.1\maslab3.exe
+C:\Users\Человек\Desktop\project\maslab3\maslab3\bin\Debug\netcoreapp3.1\maslab3.deps.json
+C:\Users\Человек\Desktop\project\maslab3\maslab3\bin\Debug\netcoreapp3.1\maslab3.runtimeconfig.json
+C:\Users\Человек\Desktop\project\maslab3\maslab3\bin\Debug\netcoreapp3.1\maslab3.runtimeconfig.dev.json
+C:\Users\Человек\Desktop\project\maslab3\maslab3\bin\Debug\netcoreapp3.1\maslab3.dll
+C:\Users\Человек\Desktop\project\maslab3\maslab3\bin\Debug\netcoreapp3.1\maslab3.pdb
+C:\Users\Человек\Desktop\project\maslab3\maslab3\obj\Debug\netcoreapp3.1\maslab3.csprojAssemblyReference.cache
+C:\Users\Человек\Desktop\project\maslab3\maslab3\obj\Debug\netcoreapp3.1\maslab3.AssemblyInfoInputs.cache
+C:\Users\Человек\Desktop\project\maslab3\maslab3\obj\Debug\netcoreapp3.1\maslab3.AssemblyInfo.cs
+C:\Users\Человек\Desktop\project\maslab3\maslab3\obj\Debug\netcoreapp3.1\maslab3.dll
+C:\Users\Человек\Desktop\project\maslab3\maslab3\obj\Debug\netcoreapp3.1\maslab3.pdb
